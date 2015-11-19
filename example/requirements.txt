@@ -7,5 +7,5 @@ python-engineio==0.7.0
 python-socketio==0.6.0
 six==1.9.0
 Werkzeug==0.10.4
-gunicorn
+gunicorn==18.0
 eventlet
